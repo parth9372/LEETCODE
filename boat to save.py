@@ -1,3 +1,6 @@
+#Input: people = [1,2], limit = 3
+#Output: 1
+#Explanation: 1 boat (1, 2)
 def num_boats(people, limit):
 
     people.sort()
